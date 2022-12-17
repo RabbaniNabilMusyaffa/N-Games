@@ -1,0 +1,70 @@
+.myBg {
+    height: 100vh;
+    background: url("../assets/images/bg/arcade3.jpeg");
+    background-size: cover;
+}
+
+.intro { 
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1;
+    text-shadow: 3px 5px #580058;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/images/bg/arcade1.jpeg");
+    background-size: cover;
+}
+
+.topSeller {
+    height: auto;
+    background: url("../assets/images/bg/vw1.jpeg");
+    background-size: cover;
+}
+
+.trendTitle {
+    color: black;
+    border: 5px solid black;
+    border-radius: 35px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    background-color: gray;
+}
+
+.gameImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.priceColor {
+    color: magenta;
+}
+
+.titleColor {
+    color: silver;
+}
+
+.imgSize {
+    height: 500px;
+}
+
+.gameWrapper {
+    margin-bottom: 30px;
+}
+
+
+
+  
+
